@@ -1,0 +1,244 @@
+[
+    {
+      "id": 1,
+      "title": "Mortal Kombat",
+      "image": "https://image.tmdb.org/t/p/w500/xGuOF1T3WmPsAcQEQJfnG7Ud9f8.jpg",
+      "category": "movie",
+      "description": "A thief who enters dreams to steal secrets.",
+      "rating": 7.5
+    },
+    {
+      "id": 2,
+      "title": "The Notebook",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+      "category": "movie",
+      "description": "A young couple falls in love during a summer in the 1940s.",
+      "rating": 9.0
+    },
+    {
+      "id": 3,
+      "title": "The Matrix",
+      "image": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+      "category": "movie",
+      "description": "A hacker discovers reality is a simulation.",
+      "rating": 10
+    },
+    {
+      "id": 4,
+      "title": "Toy Story",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "category": "movie",
+      "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday ...",
+      "rating": 9.1
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "image": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+      "category": "movie",
+      "description": "Batman faces the Joker in a battle for Gotham.",
+      "rating": 8.7
+    },
+    {
+      "id": 6,
+      "title": "Pulp Fiction",
+      "image": "https://image.tmdb.org/t/p/w500/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+      "category": "movie",
+      "description": "Crime stories intertwine in Tarantino's classic.",
+      "rating": 7.0
+    },
+    {
+      "id": 7,
+      "title": "Fight Club",
+      "image": "https://image.tmdb.org/t/p/w500/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+      "category": "movie",
+      "description": "A man forms a fight club to escape boredom.",
+      "rating": 6.9
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "image": "https://image.tmdb.org/t/p/w500/56zTpe2xvaA4alU51sRWPoKPYZy.jpg",
+      "category": "movie",
+      "description": "A hobbit embarks on a quest to destroy a ring.",
+      "rating": 9.9
+    },
+    {
+      "id": 9,
+      "title": "Forrest Gump",
+      "image": "https://image.tmdb.org/t/p/w500/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+      "category": "movie",
+      "description": "The life story of a simple man with a big heart.",
+      "rating": 5.5
+    },
+    {
+      "id": 10,
+      "title": "Gladiator",
+      "image": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "category": "movie",
+      "description": "A general becomes a gladiator seeking revenge.",
+      "rating": 8.9
+    },
+  
+    {
+      "id": 11,
+      "title": "Breaking Bad",
+      "image": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+      "category": "series",
+      "description": "A teacher turns meth cook in a thrilling series.",
+      "rating": 9.3
+    },
+    {
+      "id": 12,
+      "title": "Stranger Things",
+      "image": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "category": "series",
+      "description": "Kids uncover supernatural events in Hawkins.",
+      "rating": 4.1
+    },
+    {
+      "id": 13,
+      "title": "Game of Thrones",
+      "image": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+      "category": "series",
+      "description": "Noble families fight for the Iron Throne.",
+      "rating": 7.4
+    },
+    {
+      "id": 14,
+      "title": "The Witcher",
+      "image": "https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+      "category": "series",
+      "description": "A monster hunter navigates a dark fantasy world.",
+      "rating": 7.5
+    },
+    {
+      "id": 15,
+      "title": "The Mandalorian",
+      "image": "https://image.tmdb.org/t/p/w500/sWgBv7LV2PRoQgkxwlibdGXKz1S.jpg",
+      "category": "series",
+      "description": "A bounty hunter protects a mysterious child.",
+      "rating": 7.7
+    },
+    {
+      "id": 16,
+      "title": "Sherlock",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIfGAkpvWD2zxHrXzhv3uptYbyV.jpg",
+      "category": "series",
+      "description": "A modern version of Sherlock Holmes in London.",
+      "rating": 10
+    },
+    {
+      "id": 17,
+      "title": "The Boys",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kgY14oisiHcJ4zq0Xgq1e97PHm.jpg",
+      "category": "series",
+      "description": "Vigilantes take down corrupt superheroes.",
+      "rating": 9.7
+    },
+    {
+      "id": 18,
+      "title": "Peaky Blinders",
+      "image": "https://image.tmdb.org/t/p/w500/bGZn5RVzMMXju4ev7xbl1aLdXqq.jpg",
+      "category": "series",
+      "description": "A gangster family in 1920s Birmingham.",
+      "rating": 8.3
+    },
+    {
+      "id": 19,
+      "title": "Money Heist",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+      "category": "series",
+      "description": "Criminals plan the biggest heist in Spain.",
+      "rating": 8.1
+    },
+    {
+      "id": 20,
+      "title": "Loki",
+      "image": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+      "category": "series",
+      "description": "The god of mischief jumps through timelines.",
+      "rating": 7.7
+    },
+  
+    {
+      "id": 21,
+      "title": "Attack on Titan",
+      "image": "https://image.tmdb.org/t/p/w500/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+      "category": "anime",
+      "description": "Humans battle giant creatures called Titans.",
+      "rating": 6.5
+    },
+    {
+      "id": 22,
+      "title": "Dragon Ball Z",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1lMlxir5E4jyeLlqS2bK1Cn3Tt.jpg",
+      "category": "anime",
+      "description": "Goku fights to protect Earth from powerful foes.",
+      "rating": 6.8
+    },
+    {
+      "id": 23,
+      "title": "One Piece",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aHRHoWK4fSItzAoQO6uz3gm0OYl.jpg",
+      "category": "anime",
+      "description": "A boy dreams of becoming king of the pirates.",
+      "rating": 9.9
+    },
+    {
+      "id": 24,
+      "title": "Naruto",
+      "image": "https://image.tmdb.org/t/p/w500/vauCEnR7CiyBDzRCeElKkCaXIYu.jpg",
+      "category": "anime",
+      "description": "A ninja boy seeks recognition and power.",
+      "rating": 8.1
+    },
+    {
+      "id": 25,
+      "title": "Death Note",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCZFfYTIwrR7n94J6G14Y4hAFU6.jpg",
+      "category": "anime",
+      "description": "A notebook kills anyone whose name is written.",
+      "rating": 9.3
+    },
+    {
+      "id": 26,
+      "title": "My Hero Academia",
+      "image": "https://image.tmdb.org/t/p/w500/ivOLM47yJt90P19RH1NvJrAJz9F.jpg",
+      "category": "anime",
+      "description": "In a world of heroes, a boy fights to rise.",
+      "rating": 6.7
+    },
+    {
+      "id": 27,
+      "title": "Tokyo Ghoul",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1m4RlC9BTCbyY549TOdVQ5NRPcR.jpg",
+      "category": "anime",
+      "description": "A college student becomes half-ghoul.",
+      "rating": 7.8
+    },
+    {
+      "id": 28,
+      "title": "Jujutsu Kaisen",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHpKWq9ayzSk8nSwqRuaAUemRKh.jpg",
+      "category": "anime",
+      "description": "Students fight curses with sorcery.",
+      "rating": 9.8
+    },
+    {
+      "id": 29,
+      "title": "Bleach",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg",
+      "category": "anime",
+      "description": "A teen becomes a soul reaper to fight spirits.",
+      "rating": 8.0
+    },
+    {
+      "id": 30,
+      "title": "Fullmetal Alchemist",
+      "image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+      "category": "anime",
+      "description": "Two brothers use alchemy to fix a mistake.",
+      "rating": 10
+    }
+]

@@ -1,0 +1,23 @@
+.watchlist-page {
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  
+  .watchlist-page h1 {
+    color: white;
+    margin-bottom: 20px;
+  }
+  
+  .empty-message {
+    color: #aaa;
+    font-size: 1.2rem;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .watchlist-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+  }

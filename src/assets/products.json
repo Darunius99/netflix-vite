@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Mortal Kombat T-Shirt",
+      "image": "https://draculabyte.com/cdn/shop/products/MortalKombatScorpionScorpitonsblackunisextshirtART_1600x.png?v=1596304342",
+      "price": 24.99,
+      "description": "Official Mortal Kombat logo t-shirt"
+    },
+    {
+      "id": 2,
+      "name": "The Matrix Poster",
+      "image": "https://i.ebayimg.com/images/g/gmkAAOSwOeRhO8gX/s-l1600.jpg",
+      "price": 14.99,
+      "description": "High quality movie poster"
+    },
+    {
+      "id": 3,
+      "name": "Breaking Bad Mug",
+      "image": "https://static.thcdn.com/images/large/original/productimg/960/960/11105093-7584289662261311.jpg",
+      "price": 12.99,
+      "description": "I am the one who drinks coffee"
+    },
+    {
+      "id": 4,
+      "name": "Stranger Things Hoodie",
+      "image": "https://m.media-amazon.com/images/I/51uG8tI7y1L._AC_SX522_.jpg",
+      "price": 39.99,
+      "description": "Warm hoodie with Stranger Things logo"
+    },
+    {
+      "id": 5,
+      "name": "Game of Thrones Funko Pop",
+      "image": "https://i.ebayimg.com/images/g/eYEAAOSwDh5hXnRc/s-l1200.webp",
+      "price": 15.99,
+      "description": "Jon Snow collectible figure"
+    },
+    {
+      "id": 6,
+      "name": "The Witcher Medallion",
+      "image": "https://i.ebayimg.com/images/g/KO8AAOSw9-ZeGG0H/s-l500.jpg",
+      "price": 29.99,
+      "description": "Wolf school medallion replica"
+    },
+    {
+      "id": 7,
+      "name": "Attack on Titan Scarf",
+      "image": "https://m.media-amazon.com/images/I/71eefRcOuOL._SY741_.jpg",
+      "price": 19.99,
+      "description": "Scout Regiment scarf"
+    },
+    {
+      "id": 8,
+      "name": "One Piece Hat",
+      "image": "https://m.media-amazon.com/images/I/811vff5zUfS._AC_SX569_.jpg",
+      "price": 22.99,
+      "description": "Straw Hat replica"
+    }
+  ]
